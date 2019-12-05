@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/PhotoBar">
+        <file>icon/icon.jpg</file>
+        <file>icon/start.png</file>
+        <file>icon/hover.png</file>
+        <file>icon/pressed.png</file>
+        <file>icon/close.png</file>
+        <file>icon/open.png</file>
+    </qresource>
+</RCC>
